@@ -30,4 +30,4 @@ If you have any suggestions or find any bugs, please create an issue or send a p
 - Chắc chắn rằng bạn đã cài đặt các thư viện cần thiết trước khi chạy notebook.
 
 ## Đóng Góp
-Nếu bạn có bất kỳ ý kiến đóng góp hoặc báo lỗi, vui lòng tạo một issue hoặc gửi pull request. Chúng tôi rất hoan nghênh sự đóng góp của bạn!
+Nếu bạn có bất kỳ ý kiến đóng góp hoặc báo lỗi, vui lòng tạo một issue hoặc gửi pull request. Tôi rất hoan nghênh sự đóng góp của bạn!
