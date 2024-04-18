@@ -8,7 +8,7 @@ This is the enhanced version of the lottery game, developed from the original ga
 - **Update File `Ghino.py`:** Added the functionality to lend money if the player runs out of funds, while improving financial management by storing the total amount to gradually repay debts.
 
 ## Chạy bằng Notebook (Running with Notebook):
-- Open the file Game.ipynb in Jupyter Notebook.
+- Open the file GameLoDeHoc.ipynb in Jupyter Notebook.
 - Run the code cells sequentially to start the game.
 - Make sure you have installed the necessary libraries before running the notebook.
 
