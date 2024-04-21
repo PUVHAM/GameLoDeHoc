@@ -1,18 +1,18 @@
 # LotteryGame - Enhanced Version
 
-## Giới Thiệu (Introduction)
+## Introduction
 This is the enhanced version of the lottery game, developed from the original game by [dangblack](https://github.com/dangblack).
 
-## Cập Nhật Mới (What's New)
+## What's New
 - **Update Function `het_tien`:** Added the feature to handle the scenario of players going "all in," enhancing the excitement and challenge of the game.
 - **Update File `Ghino.py`:** Added the functionality to lend money if the player runs out of funds, while improving financial management by storing the total amount to gradually repay debts.
 
-## Chạy bằng Notebook (Running with Notebook):
+## Running with Notebook
 - Open the file GameLoDeHoc.ipynb in Jupyter Notebook.
 - Run the code cells sequentially to start the game.
 - Make sure you have installed the necessary libraries before running the notebook.
 
-## Đóng Góp (Contribution)
+## Contribution
 If you have any suggestions or find any bugs, please create an issue or send a pull request. We warmly welcome your contributions!
 
 # Game Lô Đề - Phiên bản cải tiến
